@@ -17,7 +17,7 @@ My long-term goal is to develop innovative, high-performance systems that combin
 #### Programming
 - Python
 - Java
-- C
+- C#
 #### Web technologies 
 - HTML
 - CSS
