@@ -2,7 +2,7 @@
 ## Personal Introduction
 Hi, I am Anako Njikenjike, a BSc Computer Science graduate and currently pursuing a BSc Honours in Computer Science at the University of the Western Cape. I enjoy building practical systems that solve real-world problems, from data-driven applications and financial modelling projects to educational web platforms. I am motivated by continuous learning, analytical problem-solving, and designing systems that are both efficient and scalable.
 
-Technically, I have strong proficiency in Python, Java, C, SQL, and web technologies (HTML & CSS), with experience building data-driven systems, financial modelling applications, and machine learning-based solutions. My background as a Practical Demonstrator and Tutor has further strengthened my analytical thinking and ability to communicate complex computational and mathematical concepts effectively.
+Technically, I have strong proficiency in Python, Java, C#, SQL, and web technologies (HTML & CSS), with experience building data-driven systems, financial modelling applications, and machine learning-based solutions. My background as a Practical Demonstrator and Tutor has further strengthened my analytical thinking and ability to communicate complex computational and mathematical concepts effectively.
 
 My long-term goal is to develop innovative, high-performance systems that combine intelligent technologies with practical, real-world impact.
 
