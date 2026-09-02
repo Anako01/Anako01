@@ -29,6 +29,9 @@ My long-term goal is to develop innovative, high-performance systems that combin
 - Jupyter Notebook
 - SQL
 ### Academic & Professional Interests
+-
+- Cybersecurity & System Defense
+- Artificial Intelligence
 - 
 
 ## Projects & Competitions 
