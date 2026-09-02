@@ -29,11 +29,7 @@ My long-term goal is to develop innovative, high-performance systems that combin
 - Jupyter Notebook
 - SQL
 ### Academic & Professional Interests
-- Intelligent systems & robotics-adjacent technologies
-- Augmented Reality navigation systems
-- Secure and scalable software systems
-- 4IR technologies
-- Financial data modelling
+- 
 
 ## Projects & Competitions 
 ### Financial Volatility Prediction Model
