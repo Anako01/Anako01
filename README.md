@@ -7,14 +7,17 @@ Technically, proficiency in Python, Java, C#, SQL and web technologies (HTML & C
 My long-term goal is to develop innovative, high-performance systems that combine intelligent technologies with practical, real-world impact.
 
 ## Education
-### University of the Western Cape 
-- Bachelor of Science (Hons) in Computer Science | 2026 - Present 
-- Bachelor of Science in Computer Science | Completed 2025
-#### Relevant Coursework
-- CSC311: Artificial Intelligence, algorithms, networks and operating systems
-- CSC312: Machine Learning, Database Systems and Software Engineering
-- CSC211/212: Algorithms, complexity, analytical problem-solving and optimisation
-- COS101: Programming, algorithms, software development and problem-solving
+### University of the Western Cape
+
+- **Bachelor of Science (Hons) in Computer Science** | 2026 – Present
+
+- **Bachelor of Science in Computer Science** | Completed 2025
+  - **Relevant Coursework:**
+    - **CSC311:** Artificial Intelligence, Computer Networks & Operating Systems
+    - **CSC312:** Machine Learning, Database Systems & Software Engineering
+    - **CSC211:** Data Structures, Algorithms & Computational Complexity
+    - **CSC212:** Algorithm Analysis, Complexity & Computer Architecture
+    - **COS101:** Programming, Algorithms, Object-Oriented Programming & Software Development
 
 ## Skills and Interests
 
