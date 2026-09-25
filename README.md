@@ -44,7 +44,7 @@ My long-term goal is to develop innovative, high-performance systems that combin
 - Cloud Computing
 - Emerging Technologies
 
-## Projects & Competitions 
+## Projects 
 ### Financial Volatility Prediction Model
 - Developed LSTM-based predictive models for stock volatility
 - Processed and engineered financial time-series data
@@ -58,6 +58,9 @@ My long-term goal is to develop innovative, high-performance systems that combin
 
 ### Bookbuddy 
 -
+
+
+
 ## Academic Support & Tutoring
 - Tutor ( MAM152)
 - Practical Demonstrator (PHY212/222)
