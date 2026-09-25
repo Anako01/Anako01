@@ -36,11 +36,13 @@ My long-term goal is to develop innovative, high-performance systems that combin
 - GitHub
 - Jupyter Notebook
 - SQL
-### Academic & Professional Interests
--
-- Cybersecurity & System Defense
-- Artificial Intelligence
 - 
+### Academic & Professional Interests
+- Cybersecurity & Cloud Security
+- Data Analytics 
+- Artificial Intelligence & Machine Learning
+- Cloud Computing
+- Emerging Technologies
 
 ## Projects & Competitions 
 ### Financial Volatility Prediction Model
