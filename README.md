@@ -10,6 +10,11 @@ My long-term goal is to develop innovative, high-performance systems that combin
 ### University of the Western Cape 
 - Bachelor of Science (Hons) in Computer Science | 2026 - Present 
 - Bachelor of Science in Computer Science | Completed 2025
+#### Relevant Coursework
+- CSC311: Artificial Intelligence, algorithms, networks and operating systems
+- CSC312: Machine Learning, Database Systems and Software Engineering
+- CSC211/212: Algorithms, complexity, analytical problem-solving and optimisation
+- COS101: Programming, algorithms, software development and problem-solving
 
 ## Skills and Interests
 
