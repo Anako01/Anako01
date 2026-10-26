@@ -38,8 +38,9 @@ My long-term goal is to develop innovative, high-performance systems that combin
 - SQL
 - 
 ### Academic & Professional Interests
+
+- Big Data Engineering & Data Analytics
 - Cybersecurity & Cloud Security
-- Data Analytics 
 - Artificial Intelligence & Machine Learning
 - Cloud Computing
 - Emerging Technologies
